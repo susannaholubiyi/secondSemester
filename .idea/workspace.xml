@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddfda2bf-93c1-4e6d-a0c5-53427fed5bdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diary/exception/IncorrectPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/televisionSet.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2bu4xzx2cxbx6P37VKJqoRgJeaI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/Desktop/suzzy 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.PersonTest">
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentGradeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentGradeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ticTacToe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ticTacToe" />
+      <option name="MAIN_CLASS_NAME" value="ticTacToe.TicTacToeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeTest.playerOneMakesAMove_XIsPlayedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ticTacToe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ticTacToe" />
+      <option name="MAIN_CLASS_NAME" value="ticTacToe.TicTacToeTest" />
+      <option name="METHOD_NAME" value="playerOneMakesAMove_XIsPlayedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeTest.playerTriesToPlayPositionAboveNine_InvalidPositionExceptionIsThrownTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="televisionSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ticTacToe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ticTacToe" />
+      <option name="MAIN_CLASS_NAME" value="ticTacToe.TicTacToeTest" />
+      <option name="METHOD_NAME" value="playerTriesToPlayPositionAboveNine_InvalidPositionExceptionIsThrownTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonTest" />
+        <item itemvalue="JUnit.StudentGradeTest" />
+        <item itemvalue="JUnit.TicTacToeTest" />
+        <item itemvalue="JUnit.TicTacToeTest.playerOneMakesAMove_XIsPlayedTest" />
+        <item itemvalue="JUnit.TicTacToeTest.playerTriesToPlayPositionAboveNine_InvalidPositionExceptionIsThrownTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddfda2bf-93c1-4e6d-a0c5-53427fed5bdd" name="Changes" comment="" />
+      <created>1707051922943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707051922943</updated>
+      <workItem from="1707051924229" duration="696000" />
+      <workItem from="1707059434687" duration="5070000" />
+      <workItem from="1707136712004" duration="8152000" />
+      <workItem from="1707290487793" duration="2357000" />
+      <workItem from="1707297194017" duration="2232000" />
+      <workItem from="1707343985873" duration="19010000" />
+      <workItem from="1707903505944" duration="9518000" />
+      <workItem from="1707994083563" duration="757000" />
+      <workItem from="1707998939264" duration="1628000" />
+      <workItem from="1708013161803" duration="1513000" />
+      <workItem from="1708017943240" duration="12743000" />
+      <workItem from="1708077215602" duration="1627000" />
+      <workItem from="1708102382253" duration="4063000" />
+      <workItem from="1708179010946" duration="19907000" />
+      <workItem from="1708259026627" duration="19374000" />
+      <workItem from="1708308534124" duration="853000" />
+      <workItem from="1708490205709" duration="22044000" />
+      <workItem from="1708588466521" duration="14652000" />
+      <workItem from="1708645031256" duration="1206000" />
+      <workItem from="1708672835101" duration="10230000" />
+      <workItem from="1708714639503" duration="8302000" />
+      <workItem from="1708778163708" duration="23145000" />
+      <workItem from="1708814083907" duration="4397000" />
+      <workItem from="1708868800719" duration="20607000" />
+      <workItem from="1708895843733" duration="7461000" />
+      <workItem from="1708946172163" duration="10664000" />
+      <workItem from="1709048013660" duration="6528000" />
+      <workItem from="1709107546251" duration="18349000" />
+      <workItem from="1709158834610" duration="1893000" />
+      <workItem from="1709242451507" duration="10193000" />
+      <workItem from="1709278549772" duration="5045000" />
+      <workItem from="1709462308068" duration="16054000" />
+      <workItem from="1709487820360" duration="4895000" />
+      <workItem from="1709500486426" duration="1499000" />
+      <workItem from="1709538200473" duration="281000" />
+      <workItem from="1709551507513" duration="13672000" />
+      <workItem from="1709589309757" duration="8532000" />
+      <workItem from="1709639615085" duration="9539000" />
+      <workItem from="1709722307666" duration="82000" />
+      <workItem from="1709747385293" duration="6849000" />
+      <workItem from="1709760298388" duration="14060000" />
+      <workItem from="1709847443031" duration="3091000" />
+      <workItem from="1709885554959" duration="651000" />
+      <workItem from="1709915217326" duration="2200000" />
+      <workItem from="1710014366216" duration="691000" />
+      <workItem from="1710068328584" duration="25328000" />
+      <workItem from="1710143636690" duration="1283000" />
+      <workItem from="1710189879038" duration="2000" />
+      <workItem from="1710195797207" duration="9191000" />
+      <workItem from="1710313169017" duration="724000" />
+      <workItem from="1710314495631" duration="1702000" />
+      <workItem from="1710319186504" duration="1385000" />
+      <workItem from="1710364113063" duration="1049000" />
+      <workItem from="1710419149724" duration="1138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/TelevisionTest.java</url>
+          <line>150</line>
+          <properties class="TelevisionTest" method="changeChannelForward_channelIsChangedTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/PersonTest.java</url>
+          <line>9</line>
+          <properties class="PersonTest" method="personAddProblem_listOfProblemIsNotEmptyTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
