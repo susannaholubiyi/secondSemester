@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddfda2bf-93c1-4e6d-a0c5-53427fed5bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diary/exception/IncorrectPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/televisionSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mode/Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/mode/ModeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/televisionSet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/secondSemester.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,27 +55,43 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.PersonTest">
+  <component name="RunManager" selected="JUnit.ModeTest.getNumberOfOccurenceAndMostOccuringNumberTest">
+    <configuration name="ModeTest.getNumberOfOccurenceAndMostOccuringNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secondSemester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mode" />
+      <option name="MAIN_CLASS_NAME" value="mode.ModeTest" />
+      <option name="METHOD_NAME" value="getNumberOfOccurenceAndMostOccuringNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="televisionSet" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <module name="secondSemester" />
+      <option name="PACKAGE_NAME" value="personAndProblem" />
+      <option name="MAIN_CLASS_NAME" value="personAndProblem.PersonTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="StudentGradeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="televisionSet" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StudentGradeTest" />
+      <module name="secondSemester" />
+      <option name="PACKAGE_NAME" value="studentGrade" />
+      <option name="MAIN_CLASS_NAME" value="studentGrade.StudentGradeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TicTacToeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="televisionSet" />
+      <module name="secondSemester" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ticTacToe.*" />
@@ -93,7 +106,7 @@
       </method>
     </configuration>
     <configuration name="TicTacToeTest.playerOneMakesAMove_XIsPlayedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="televisionSet" />
+      <module name="secondSemester" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ticTacToe.*" />
@@ -108,29 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToeTest.playerTriesToPlayPositionAboveNine_InvalidPositionExceptionIsThrownTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="televisionSet" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ticTacToe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ticTacToe" />
-      <option name="MAIN_CLASS_NAME" value="ticTacToe.TicTacToeTest" />
-      <option name="METHOD_NAME" value="playerTriesToPlayPositionAboveNine_InvalidPositionExceptionIsThrownTest" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="secondSemester" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="secondSemester" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ModeTest.getNumberOfOccurenceAndMostOccuringNumberTest" />
         <item itemvalue="JUnit.PersonTest" />
         <item itemvalue="JUnit.StudentGradeTest" />
         <item itemvalue="JUnit.TicTacToeTest" />
         <item itemvalue="JUnit.TicTacToeTest.playerOneMakesAMove_XIsPlayedTest" />
-        <item itemvalue="JUnit.TicTacToeTest.playerTriesToPlayPositionAboveNine_InvalidPositionExceptionIsThrownTest" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +206,9 @@
       <workItem from="1710319186504" duration="1385000" />
       <workItem from="1710364113063" duration="1049000" />
       <workItem from="1710419149724" duration="1138000" />
+      <workItem from="1710524143818" duration="287000" />
+      <workItem from="1710694080198" duration="634000" />
+      <workItem from="1710924194886" duration="5850000" />
     </task>
     <servers />
   </component>
@@ -206,8 +219,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/TelevisionTest.java</url>
-          <line>150</line>
+          <url>file://$PROJECT_DIR$/test/televisionSet/TelevisionTest.java</url>
+          <line>149</line>
           <properties class="TelevisionTest" method="changeChannelForward_channelIsChangedTest">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -215,7 +228,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/test/PersonTest.java</url>
+          <url>file://$PROJECT_DIR$/test/personAndProblem/PersonTest.java</url>
           <line>9</line>
           <properties class="PersonTest" method="personAddProblem_listOfProblemIsNotEmptyTest">
             <option name="EMULATED" value="true" />
@@ -224,7 +237,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Person.java</url>
+          <url>file://$PROJECT_DIR$/src/personAndProblem/Person.java</url>
           <line>21</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
