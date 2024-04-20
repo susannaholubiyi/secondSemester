@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddfda2bf-93c1-4e6d-a0c5-53427fed5bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mode/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/mode/ModeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HighestMinusLowest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HighestMinusLowestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/televisionSet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/secondSemester.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +25,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2bu4xzx2cxbx6P37VKJqoRgJeaI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,16 +49,34 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/user/Desktop/suzzy 2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.ModeTest.getNumberOfOccurenceAndMostOccuringNumberTest">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="studentGrade" />
+      <recent name="ageGenerator" />
+      <recent name="personAndProblem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HighestMinusLowestTest.functionTakesInNumbers_returnsMaxMinusMinTest">
+    <configuration name="HighestMinusLowestTest.functionTakesInNumbers_returnsMaxMinusMinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secondSemester" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HighestMinusLowestTest" />
+      <option name="METHOD_NAME" value="functionTakesInNumbers_returnsMaxMinusMinTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ModeTest.getNumberOfOccurenceAndMostOccuringNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="secondSemester" />
       <extension name="coverage">
@@ -105,42 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToeTest.playerOneMakesAMove_XIsPlayedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="secondSemester" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ticTacToe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ticTacToe" />
-      <option name="MAIN_CLASS_NAME" value="ticTacToe.TicTacToeTest" />
-      <option name="METHOD_NAME" value="playerOneMakesAMove_XIsPlayedTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="secondSemester" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="secondSemester" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HighestMinusLowestTest.functionTakesInNumbers_returnsMaxMinusMinTest" />
         <item itemvalue="JUnit.ModeTest.getNumberOfOccurenceAndMostOccuringNumberTest" />
         <item itemvalue="JUnit.PersonTest" />
         <item itemvalue="JUnit.StudentGradeTest" />
         <item itemvalue="JUnit.TicTacToeTest" />
-        <item itemvalue="JUnit.TicTacToeTest.playerOneMakesAMove_XIsPlayedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +200,12 @@
       <workItem from="1710419149724" duration="1138000" />
       <workItem from="1710524143818" duration="287000" />
       <workItem from="1710694080198" duration="634000" />
-      <workItem from="1710924194886" duration="5850000" />
+      <workItem from="1710924194886" duration="6077000" />
+      <workItem from="1710976531735" duration="53000" />
+      <workItem from="1711613302323" duration="1964000" />
+      <workItem from="1711617814227" duration="158000" />
+      <workItem from="1712147363715" duration="1279000" />
+      <workItem from="1713514406168" duration="211000" />
     </task>
     <servers />
   </component>
